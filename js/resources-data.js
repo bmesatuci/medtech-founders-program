@@ -96,7 +96,7 @@ const RESOURCES = [
   {
     title: "Discord Server",
     desc: "Team channels, announcements, and day-to-day questions.",
-    url: null,
+    url: "https://discord.gg/DHwWXFVWv",
     type: "link",
     section: "essentials"
   },
