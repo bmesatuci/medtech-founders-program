@@ -34,7 +34,11 @@
 
 const ANNOUNCEMENTS = [
   {
-    date: "Oct 1",
-    text: "Team formation form is due Oct 9 at 11:59pm — <a href=\"https://forms.gle/cA3ukDBe4oURCQxz6\" target=\"_blank\" rel=\"noopener\" class=\"inline-link\">fill it out here</a>."
+    date: "Oct 15",
+    text: "Contracts are due at 11:59pm — submit through the <a href=\"https://forms.gle/7TdMLKwMiEeV2qcv7\" target=\"_blank\" rel=\"noopener\" class=\"inline-link\">Deliverables form</a>."
+  },
+  {
+    date: "Oct 29",
+    text: "CoDR slides are due at 5pm — submit through the <a href=\"https://forms.gle/7TdMLKwMiEeV2qcv7\" target=\"_blank\" rel=\"noopener\" class=\"inline-link\">Deliverables form</a>."
   },
 ];
